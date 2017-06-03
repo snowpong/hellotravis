@@ -14,4 +14,5 @@ QML_IMPORT_PATH =
 include(deployment.pri)
 
 DISTFILES += \
-    .travis.yml
+    .travis.yml \
+    .appveyor.yml
